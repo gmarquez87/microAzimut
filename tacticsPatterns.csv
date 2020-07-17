@@ -1,0 +1,22 @@
+,Preventing single dependency,Set timeouts,Providing fallbacks,Self-preservation,Asynchronous messaging,Ping/Echo,Monitor,Heartbeat,Sanity Checking,Transactions,Removal from Service,State Resynchronization,Data Store Separation,Build Separation,Container Deployment,Network Location,Balancing Scale,Self-description,Discover Service,Orchestrate,Tailor Interface,Autheticate Actors,Indetify Actor,Authorize Actor,Limit Access,Limit Exposure
+Circuit Breaker,1,0,1,0.6,0,0,1,0,0.6,0,1,0.6,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+API Gateway,0,0,0,0,1,0,0.6,0,0.6,1,0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Service Registry,0.6,1,0,0,0,1,0,1,1,0.6,0,0.3,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Result Cache,0.3,0,0.3,0.6,0,0,0,0,0,0.6,0,0.6,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Monitoring,0,0,0,0,0.6,1,1,0,0,0,0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Health Check,0.6,0,1,0,0,0,0.6,1,1,0,0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Service Discovery,0,1,0,0.6,0.6,0,1,0,0,0.6,0.6,0.3,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Messaging,0.3,1,0,0,1,1,0,0,0,0,0,0,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+Service Discovery2,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,1,0,0.6,-,-,-,-,-,-,-,-
+Page Cache,-,-,-,-,-,-,-,-,-,-,-,-,0.6,0.6,0,0,0,0.3,-,-,-,-,-,-,-,-
+Scalable Store,-,-,-,-,-,-,-,-,-,-,-,-,0,0,0,0.6,0.6,0,-,-,-,-,-,-,-,-
+Key Value Store,-,-,-,-,-,-,-,-,-,-,-,-,0,0.6,0,0,0.6,0,-,-,-,-,-,-,-,-
+Load Balancer,-,-,-,-,-,-,-,-,-,-,-,-,0,0.3,0,1,1,0,-,-,-,-,-,-,-,-
+Database is the Service,-,-,-,-,-,-,-,-,-,-,-,-,1,0,1,0.6,0.6,0,-,-,-,-,-,-,-,-
+Container,-,-,-,-,-,-,-,-,-,-,-,-,1,1,1,0,0,0,-,-,-,-,-,-,-,-
+Broker,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0.6,1,1,-,-,-,-,-
+Service Discovery3,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,0.6,0,-,-,-,-,-
+Messaging2,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0.3,0.6,0.3,-,-,-,-,-
+Authenticator,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,0,0,1,1
+Credential,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0.6,1,0.6,0.6,0.3
+Authorization,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,0,1,1,0.6
