@@ -2,7 +2,7 @@
 
 This repository contains the datasets used by the microAzimut technique [1]. The architectural tactics, architectural patterns and frameworks of the datasets are mentioned below:
 
-Architectural tactics:
+**Architectural tactics**:
 
 - Preventing single dependency	
 - Set timeouts	
@@ -31,7 +31,7 @@ Architectural tactics:
 - Limit Access	
 - Limit Exposure
 
-Architectural patterns:
+**Architectural patterns**:
 
 - Circuit Breaker
 - API Gateway
@@ -52,7 +52,7 @@ Architectural patterns:
 - Credential
 - Authorization
 
-Frameworks:
+**Frameworks**:
 
 - DynamoDB (https://aws.amazon.com/es/dynamodb/)
 - Netflix Nebula (https://github.com/nebula-plugins)
