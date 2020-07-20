@@ -85,9 +85,16 @@ For a more detailed description of each microservices tactics and microservices 
 **References**
 
 [1]Márquez, G., Lazo, Y., & Astudillo, H. (2020, March). Evaluating Frameworks Assemblies In Microservices-based Systems Using Imperfect Information. In 2020 IEEE International Conference on Software Architecture Companion (ICSA-C) (pp. 250-257). IEEE. [DOI](10.1109/ICSA-C50368.2020.00049)
+
 [2]Pereira-Vale, A., Márquez, G., Astudillo, H., & Fernandez, E. B. Security Mechanisms Used in Microservices-Based Systems: A Systematic Mapping. In 2019 XLV Latin American Computing Conference (CLEI) (pp. 01-10). IEEE. [DOI](10.1109/CLEI47609.2019.235060)
+
 [3]Márquez, G., & Astudillo, H. (2019, September). Identifying availability tactics to support security architectural design of microservice-based systems. In Proceedings of the 13th European Conference on Software Architecture-Volume 2 (pp. 123-129). [DOI](https://doi.org/10.1145/3344948.3344996)
+
 [4]Márquez, G., & Astudillo, H. (2018, December). Actual use of architectural patterns in microservices-based open source projects. In 2018 25th Asia-Pacific Software Engineering Conference (APSEC) (pp. 31-40). IEEE. [DOI](10.1109/APSEC.2018.00017)
+
 [5]Osses, F., Márquez, G., & Astudillo, H. (2018). An exploratory study of academic architectural tactics and patterns in microservices: A systematic literature review. Avances en Ingenieria de Software a Nivel Iberoamericano, CIbSE 2018.
+
 [6]Márquez, G., Villegas, M. M., & Astudillo, H. (2018, September). A pattern language for scalable microservices-based systems. In Proceedings of the 12th European Conference on Software Architecture: Companion Proceedings (pp. 1-7). [DOI](https://doi.org/10.1145/3241403.3241429)
+
 [7]Márquez, G., Villegas, M. M., & Astudillo, H. (2018, November). An empirical study of scalability frameworks in open source microservices-based systems. In 2018 37th International Conference of the Chilean Computer Science Society (SCCC) (pp. 1-8). IEEE. [DOI](10.1109/SCCC.2018.8705256)
+
