@@ -98,3 +98,7 @@ For a more detailed description of each microservices tactics and microservices 
 
 [7]Márquez, G., Villegas, M. M., & Astudillo, H. (2018, November). An empirical study of scalability frameworks in open source microservices-based systems. In 2018 37th International Conference of the Chilean Computer Science Society (SCCC) (pp. 1-8). IEEE. [DOI](https://doi.org/10.1109/SCCC.2018.8705256)
 
+[8]Taibi, D., Lenarduzzi, V., & Pahl, C. (2018). Architectural patterns for microservices: a systematic mapping study. SCITEPRESS. [URI](http://hdl.handle.net/10863/5599)
+
+[9]Bass, L., Clements, P., & Kazman, R. (2013). Software architecture in practice. Addison-Wesley Professional.
+
