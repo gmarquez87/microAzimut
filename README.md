@@ -2,6 +2,58 @@
 
 This repository contains the datasets used by the microAzimut technique [1]. The architectural tactics, architectural patterns and frameworks of the datasets are mentioned below:
 
+**Properties**
+
+*Availability*
+
+- High detection of failed host: This property defines the capability of detect failed hosts in order to a load balancer can stop requests to them.
+
+- Intermittently asynchronous data transmission: Communication property where a message sender does not wait for a response.
+
+- Regular snapshots: Property related to recovering the system from planned host maintenance owing to hardware upgrade, soft reboot, among others.
+
+- Efficient duration of timeouts periods: Property that prevents remote procedure calls from waiting indefinitely for a response.
+
+- High isolation: The property where each microservices is its own encapsulated application.
+
+- Effective load balancing: Efficiently distributing incoming network traffic among groups of backend servers.
+
+- Quick broken state recovery: Capability to restart states when they are broken for a more extended period.
+
+- High control of failure propagation: Property which indicates the capability of isolate failures through a good definition of service boundaries.
+
+- High service monitoring visibility: Property that allows visibility into the health of the microservice architecture.
+
+- Periodic heartbeat signal: Property related to the periodic signal to check the status of services.
+
+- Low application restarting: This property refers to the low rate of restart services when a failure occurs.
+
+- Efficient resources consumption: Property related to the impact on the resources consumption (hardware/software) of a system.
+
+*Scalability*
+
+- Effective technical duplication: This property focuses on the need to execute multiple identical copies of an application behind a load balancer, to improve its capacity and availability.
+
+- High functional decomposition: This property focuses on separating services and data along noun or verb boundaries, allowing segmentation of teams and ownership of code and data.
+
+- Effective data partitioning: This property focuses on grouping related items.
+
+*Interoperability*
+
+- High cooperation among components: Capability of exchange information among services and devices (such as sensors).
+
+- High coordinated orchestration among components: This property points to a control mechanism to coordinate, manage and sequence the invocation of particular components (which could be ignorant of each other).
+
+*Security*
+
+- Strong level of individuals, groups, or systems authorization: Capacity of control users to grant them limited access to platforms systems resources without having to expose their credentials.
+
+- High-security authentication: Capacity of verifying the identity of a person, service or device.
+
+- Effective credentials management: Property related to the management of credentials, making them available to less or high privileged users for authentication to other systems without giving them access to the credentials themselves.
+
+- Effective access control: Property that allows verifying if an entity requesting access to a resource has the necessary rights to do so.
+
 **Microservices tactics**:
 
 - Preventing single dependency	
