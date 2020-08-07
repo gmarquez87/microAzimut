@@ -77,8 +77,8 @@ This repository contains the datasets used by the microAzimut technique [1]. The
 - Discover Service	
 - Orchestrate	
 - Tailor Interface	
-- Autheticate Actors	
-- Indetify Actor	
+- Authenticate Actors	
+- Identify Actor	
 - Authorize Actor	
 - Limit Access	
 - Limit Exposure
