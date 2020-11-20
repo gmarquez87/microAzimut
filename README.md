@@ -131,6 +131,18 @@ This repository contains the datasets used by the microAzimut technique [1]. The
 - OAuth (https://oauth.net/2/)
 - ActiveMQ (http://activemq.apache.org) 
 - Mosquitto (https://mosquitto.org)
+- Apache Kafka (https://kafka.apache.org)
+- Logstach (https://www.elastic.co/logstash)
+- Graylog (https://www.graylog.org/blog)
+- Telepresence (https://www.telepresence.io)
+- Istio (https://istio.io/latest/)
+- Elixir (https://elixir-lang.org)
+- Kong (https://konghq.com)
+- Claudia (https://github.com/claudiajs/claudia)
+- Apache OpenWhisk (https://openwhisk.apache.org)
+- Prometheus (https://github.com/prometheus)
+- MySQL (https://www.mysql.com)
+- PostgresSQL (https://www.postgresql.org)
 
 For a more detailed description of each microservices tactics and microservices pattern, please refer to the following references.
 
