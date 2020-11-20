@@ -136,7 +136,6 @@ This repository contains the datasets used by the microAzimut technique [1]. The
 - Graylog (https://www.graylog.org/blog)
 - Telepresence (https://www.telepresence.io)
 - Istio (https://istio.io/latest/)
-- Elixir (https://elixir-lang.org)
 - Kong (https://konghq.com)
 - Claudia (https://github.com/claudiajs/claudia)
 - Apache OpenWhisk (https://openwhisk.apache.org)
